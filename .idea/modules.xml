@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Binary Search Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Binary Search Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursive Method/Recursive Method.iml" filepath="$PROJECT_DIR$/Recursive Method/Recursive Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotated Sorted Array Searching/Rotated Sorted Array Searching.iml" filepath="$PROJECT_DIR$/Rotated Sorted Array Searching/Rotated Sorted Array Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two-D Array/Two-D Array.iml" filepath="$PROJECT_DIR$/Two-D Array/Two-D Array.iml" />
+    </modules>
+  </component>
+</project>
